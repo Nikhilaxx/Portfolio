@@ -1,5 +1,5 @@
 # Nikhila S — Developer Portfolio
-
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render&logoColor=white)](https://nikhila-s.vercel.app/)
 Welcome to my personal portfolio website!  
 This is a modern, responsive, and fully animated portfolio built using **React + Tailwind CSS**, deployed live via **Vercel**.
 
@@ -28,7 +28,7 @@ This is a modern, responsive, and fully animated portfolio built using **React +
 
 ---
 ## [Portfolio Preview](https://your-screenshot-url.com)  
-[Screenshot 2025-07-04 221117](https://github.com/user-attachments/assets/4dce77f8-8778-4b6c-a283-732f426ad723)
+[Screenshot 2025-07-04 221117]([https://github.com/user-attachments/assets/4dce77f8-8778-4b6c-a283-732f426ad723](https://github-production-user-asset-6210df.s3.amazonaws.com/153297347/462583289-4dce77f8-8778-4b6c-a283-732f426ad723.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250704T164538Z&X-Amz-Expires=300&X-Amz-Signature=ff9ade62d6efd8c08a55d3776e918470279c28ce8ca4e3ffa1df276ee9e9cc67&X-Amz-SignedHeaders=host))
 
 ---
 
@@ -41,9 +41,7 @@ This is a modern, responsive, and fully animated portfolio built using **React +
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [Visit My Portfolio](hthttps://nikhila-s.vercel.app/)  
+🔗 [Visit My Portfolio](https://nikhila-s.vercel.app/)  
 ---
 
 

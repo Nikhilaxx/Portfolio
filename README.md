@@ -1,7 +1,8 @@
 # Nikhila S — Developer Portfolio
 [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render&logoColor=white)](https://nikhila-s.vercel.app/)
-Welcome to my personal portfolio website!  
-This is a modern, responsive, and fully animated portfolio built using **React + Tailwind CSS**, deployed live via **Vercel**.
+
+-Welcome to my personal portfolio website!  
+-This is a modern, responsive, and fully animated portfolio built using **React + Tailwind CSS**, deployed live via **Vercel**.
 
 
 ---

@@ -28,7 +28,8 @@
 - 📸 Profile section with image and education info
 
 ---
-![Portfolio Preview](public/Screenshot 2025-07-04 221117.png)
+![Portfolio Preview](Screenshot%202025-07-04%20221117.png)
+
 
 ---
 

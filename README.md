@@ -31,7 +31,8 @@
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](./public/screenshot.png)
+![Portfolio Preview](https://github.com/Nikhilaxx/Portfolio/blob/master/public/Screenshot.png?raw=true)
+
 
 
 

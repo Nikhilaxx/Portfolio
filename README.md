@@ -31,7 +31,8 @@
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](./public/Screenshot 2025-07-04 221117.png)
+![Portfolio Preview](./public/screenshot.png)
+
 
 
 ---

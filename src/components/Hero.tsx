@@ -26,13 +26,13 @@ const Hero = () => {
               Nikhila S
             </h1>
 
-            <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold mb-6 text-gray-700 dark:text-gray-300">
-              Aspiring Full-Stack Developer and Enthusiastic about Web3 technology
-            </h2>
+           <h2 className="text-xl sm:text-2xl lg:text-3xl font-semibold mb-6 text-gray-700 dark:text-gray-300">
+  Full-Stack Developer | Web3 Enthusiast
+</h2>
+
 
             <div className="max-w-3xl mx-auto mb-12">
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-                Passionate about building scalable web apps and exploring decentralized technologies.
                 Learning Next.js, Solidity and backend development. Open to collaborating on full-stack and Web3 projects.
               </p>
             </div>

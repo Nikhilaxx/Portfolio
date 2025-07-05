@@ -7,7 +7,6 @@ import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
-import FunFacts from './components/FunFacts';
 import Footer from './components/Footer';
 import { ThemeProvider } from './context/ThemeContext';
 
